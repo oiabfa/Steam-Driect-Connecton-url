@@ -6,3 +6,4 @@ payload:
     - DOMAIN-SUFFIX,api.steampowered.com
     - DOMAIN-SUFFIX,rmbgame.net
     - DOMAIN-SUFFIX,bdstarup.com
+    - PROCESS-NAME,cs2.exe
