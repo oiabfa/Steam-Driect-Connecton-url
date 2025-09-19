@@ -1,4 +1,6 @@
 payload:
+    # Steam主域名相关
+    - DOMAIN-SUFFIX,steamchina.com
     - DOMAIN-SUFFIX,steamcontent.com
     - DOMAIN-SUFFIX,steamstatic.com
     - DOMAIN-SUFFIX,steamserver.net
@@ -6,4 +8,24 @@ payload:
     - DOMAIN-SUFFIX,api.steampowered.com
     - DOMAIN-SUFFIX,rmbgame.net
     - DOMAIN-SUFFIX,bdstarup.com
+    # Steam中国特有域名
+    - DOMAIN,csgo.wmsj.cn
+    - DOMAIN,dota2.wmsj.cn
+    - DOMAIN,wmsjsteam.com
+    - DOMAIN,dl.steam.clngaa.com
+    - DOMAIN,dl.steam.ksyna.com
+    - DOMAIN,st.dl.bscstorage.net
+    - DOMAIN,st.dl.eccdnx.com
+    - DOMAIN,st.dl.pinyuncloud.com
+    - DOMAIN,steampipe.steamcontent.tnkjmec.com
+    - DOMAIN,steampowered.com.8686c.com
+    - DOMAIN,steamstatic.com.8686c.com
+    # Steam CDN域名
+    - DOMAIN,steambroadcast.akamaized.net
+    - DOMAIN,steamcdn-a.akamaihd.net
+    - DOMAIN,steamcommunity-a.akamaihd.net
+    - DOMAIN,steamstore-a.akamaihd.net
+    - DOMAIN,steamusercontent-a.akamaihd.net
+    - DOMAIN,steamuserimages-a.akamaihd.net
+    # Steam客户端进程
     - PROCESS-NAME,cs2.exe
